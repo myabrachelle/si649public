@@ -1,4 +1,4 @@
-super_opeid,name,czname,state,par_median,k_median,par_q1,par_top1pc,kq5_cond_parq1,ktop1pc_cond_parq1,mr_kq5_pq1,mr_ktop1_pq1,trend_parq1,trend_bottom40,count
+super_opeid,name,county_name,state,par_median,k_median,par_q1,par_top1pc,kq5_cond_parq1,ktop1pc_cond_parq1,mr_kq5_pq1,mr_ktop1_pq1,trend_parq1,trend_bottom40,count
 2665,Vaughn College Of Aeronautics And Technology,New York,NY,30900,53000,36.477882,.11981525,44.843544,1.7666299,16.357975,.64442915,-7.9987764,-5.7506108,207.6666666666667
 7273,CUNY Bernard M. Baruch College,New York,NY,42800,57600,27.632242,.55920202,46.824234,2.5568271,12.938586,.70650864,-9.1865492,-12.297223,1083
 2688,City College Of New York - CUNY,New York,NY,35500,48500,32.546474,.23351549,36.021557,1.4087214,11.723747,.45848918,-9.8015804,-13.879366,582.3333333333334
